@@ -1,0 +1,34 @@
+[
+  {
+    "title": "[N64] The Legend Of Zelda: The Majora's Mask",
+    "entry": "games/TLoZTMM/index.html"
+  },
+  {
+    "title": "[N64] Paper Mario",
+    "entry": "games/PaperMario/index.html"
+  },
+    {
+    "title": "[N64] Super Mario 64",
+    "entry": "games/SM64/index.html"
+  },
+  {
+    "title": "[GBA] Sonic Advance",
+    "entry": "games/SonicAdvance/index.html"
+  },
+  {
+    "title": "[GBA] Sonic Advance 2",
+    "entry": "games/SonicAdvance2/index.html"
+  },
+  {
+    "title": "[Sega] Sonic the Hedgehog",
+    "entry": "games/STH/index.html"
+  },
+  {
+    "title": "[Sega] Sonic the Hedgechog 2",
+    "entry": "games/STH2/index.html"
+  },
+  {
+    "title": "[NES] Super Mario Bros",
+    "entry": "games/SMB/index.html"
+  }
+]
